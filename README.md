@@ -1,7 +1,7 @@
 # 📁 项目目录结构
 
 ## 1. React 评论组件示例[基础]
-**项目路径：** `./react-comment-demo/`
+**项目路径：** `./1.basic/react-comment-demo/`
 
 ![评论组件预览](comment.png)
 
