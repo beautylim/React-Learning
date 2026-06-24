@@ -1,0 +1,1005 @@
+{
+  "records": [
+    {
+      "type": "pay",
+      "money": -68,
+      "date": "2025-05-03 09:23:15",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -1299,
+      "date": "2025-05-03 14:56:42",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2025-05-05 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -35,
+      "date": "2025-05-05 18:30:20",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2025-05-06 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -156,
+      "date": "2025-05-07 12:10:33",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -2300,
+      "date": "2025-05-08 20:45:10",
+      "useFor": "house debt"
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2025-05-10 15:20:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -89,
+      "date": "2025-05-10 19:00:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -450,
+      "date": "2025-05-12 10:30:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "pay",
+      "money": -199,
+      "date": "2025-05-13 16:45:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2025-05-15 11:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -1200,
+      "date": "2025-05-16 09:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2025-05-18 14:20:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -320,
+      "date": "2025-05-20 18:10:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -800,
+      "date": "2025-05-22 13:00:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2025-06-05 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2025-06-06 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -78,
+      "date": "2025-06-07 12:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -2300,
+      "date": "2025-06-08 20:45:00",
+      "useFor": "house debt"
+    },
+    {
+      "type": "pay",
+      "money": -56,
+      "date": "2025-06-09 09:15:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -350,
+      "date": "2025-06-10 16:00:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "income",
+      "money": 800,
+      "date": "2025-06-12 14:00:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -230,
+      "date": "2025-06-13 11:20:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "pay",
+      "money": -1500,
+      "date": "2025-06-15 10:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "income",
+      "money": 300,
+      "date": "2025-06-16 09:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -99,
+      "date": "2025-06-18 18:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -650,
+      "date": "2025-06-20 14:45:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "pay",
+      "money": -120,
+      "date": "2025-06-22 20:00:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2025-07-05 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2025-07-06 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -67,
+      "date": "2025-07-07 12:00:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -2300,
+      "date": "2025-07-08 20:45:00",
+      "useFor": "house debt"
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2025-07-09 08:30:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-07-10 16:00:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -280,
+      "date": "2025-07-11 13:00:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "pay",
+      "money": -500,
+      "date": "2025-07-13 10:30:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "income",
+      "money": 200,
+      "date": "2025-07-15 11:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -900,
+      "date": "2025-07-16 09:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "pay",
+      "money": -75,
+      "date": "2025-07-18 19:00:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -550,
+      "date": "2025-07-20 15:30:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2025-08-05 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2025-08-06 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -89,
+      "date": "2025-08-07 12:20:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -2300,
+      "date": "2025-08-08 20:45:00",
+      "useFor": "house debt"
+    },
+    {
+      "type": "pay",
+      "money": -34,
+      "date": "2025-08-09 09:00:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -420,
+      "date": "2025-08-10 14:00:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "income",
+      "money": 1000,
+      "date": "2025-08-12 13:00:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -180,
+      "date": "2025-08-14 11:30:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "pay",
+      "money": -2000,
+      "date": "2025-08-16 10:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "income",
+      "money": 400,
+      "date": "2025-08-18 09:30:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -60,
+      "date": "2025-08-20 18:00:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -720,
+      "date": "2025-08-22 16:30:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2025-09-05 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2025-09-06 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -55,
+      "date": "2025-09-07 12:10:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -2300,
+      "date": "2025-09-08 20:45:00",
+      "useFor": "house debt"
+    },
+    {
+      "type": "income",
+      "money": 600,
+      "date": "2025-09-09 15:00:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -300,
+      "date": "2025-09-10 10:00:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "pay",
+      "money": -42,
+      "date": "2025-09-12 08:45:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -250,
+      "date": "2025-09-13 13:20:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "income",
+      "money": 250,
+      "date": "2025-09-15 11:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -1100,
+      "date": "2025-09-16 09:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "pay",
+      "money": -98,
+      "date": "2025-09-18 19:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -480,
+      "date": "2025-09-20 14:00:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2025-10-05 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2025-10-06 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -72,
+      "date": "2025-10-07 12:00:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -2300,
+      "date": "2025-10-08 20:45:00",
+      "useFor": "house debt"
+    },
+    {
+      "type": "pay",
+      "money": -38,
+      "date": "2025-10-09 08:00:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -600,
+      "date": "2025-10-10 16:00:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "income",
+      "money": 1200,
+      "date": "2025-10-12 14:30:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -210,
+      "date": "2025-10-13 11:00:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "pay",
+      "money": -800,
+      "date": "2025-10-15 10:30:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "income",
+      "money": 350,
+      "date": "2025-10-16 09:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -50,
+      "date": "2025-10-18 18:30:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -600,
+      "date": "2025-10-20 15:00:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2025-11-05 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2025-11-06 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -63,
+      "date": "2025-11-07 12:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -2300,
+      "date": "2025-11-08 20:45:00",
+      "useFor": "house debt"
+    },
+    {
+      "type": "income",
+      "money": 700,
+      "date": "2025-11-09 16:00:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -150,
+      "date": "2025-11-10 13:00:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "pay",
+      "money": -48,
+      "date": "2025-11-12 09:15:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -350,
+      "date": "2025-11-14 10:00:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "income",
+      "money": 200,
+      "date": "2025-11-15 11:30:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -1800,
+      "date": "2025-11-16 09:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "pay",
+      "money": -85,
+      "date": "2025-11-18 19:00:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -530,
+      "date": "2025-11-20 14:30:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2025-12-05 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2025-12-06 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -91,
+      "date": "2025-12-07 12:00:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -2300,
+      "date": "2025-12-08 20:45:00",
+      "useFor": "house debt"
+    },
+    {
+      "type": "pay",
+      "money": -29,
+      "date": "2025-12-09 08:30:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -450,
+      "date": "2025-12-10 15:00:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2025-12-12 14:00:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -270,
+      "date": "2025-12-14 11:30:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "pay",
+      "money": -1500,
+      "date": "2025-12-16 10:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2025-12-18 09:30:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -77,
+      "date": "2025-12-20 18:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -680,
+      "date": "2025-12-22 16:00:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2026-01-05 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2026-01-06 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -58,
+      "date": "2026-01-07 12:10:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -2300,
+      "date": "2026-01-08 20:45:00",
+      "useFor": "house debt"
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-01-10 15:30:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -320,
+      "date": "2026-01-11 13:00:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "pay",
+      "money": -36,
+      "date": "2026-01-12 09:00:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -190,
+      "date": "2026-01-14 11:00:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "income",
+      "money": 300,
+      "date": "2026-01-16 10:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -900,
+      "date": "2026-01-18 09:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "pay",
+      "money": -70,
+      "date": "2026-01-20 19:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -420,
+      "date": "2026-01-22 14:00:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "pay",
+      "money": -85,
+      "date": "2026-02-01 09:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2026-02-03 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -320,
+      "date": "2026-02-04 14:00:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2026-02-05 15:20:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2026-02-07 18:30:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -67,
+      "date": "2026-02-09 12:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2026-02-10 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "income",
+      "money": 300,
+      "date": "2026-02-12 11:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -89,
+      "date": "2026-02-13 19:00:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -450,
+      "date": "2026-02-15 10:30:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2026-03-02 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -78,
+      "date": "2026-03-04 12:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2026-03-05 15:20:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -230,
+      "date": "2026-03-07 11:20:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "pay",
+      "money": -56,
+      "date": "2026-03-09 09:15:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -350,
+      "date": "2026-03-10 16:00:00",
+      "useFor": "travel"
+    },
+    {
+      "type": "income",
+      "money": 800,
+      "date": "2026-03-12 14:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -55,
+      "date": "2026-03-14 18:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -600,
+      "date": "2026-03-15 15:00:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2026-04-01 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -89,
+      "date": "2026-04-03 12:20:00",
+      "useFor": "food"
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2026-04-05 15:20:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -34,
+      "date": "2026-04-07 09:00:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -280,
+      "date": "2026-04-09 13:00:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-04-11 16:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -900,
+      "date": "2026-04-13 09:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "pay",
+      "money": -75,
+      "date": "2026-04-15 19:00:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -550,
+      "date": "2026-04-17 15:30:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2026-05-02 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2026-05-04 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -67,
+      "date": "2026-05-06 12:00:00",
+      "useFor": "food"
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2026-05-08 15:20:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2026-05-10 08:30:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -230,
+      "date": "2026-05-12 11:20:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "income",
+      "money": 800,
+      "date": "2026-05-14 14:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -900,
+      "date": "2026-05-16 09:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "pay",
+      "money": -77,
+      "date": "2026-05-18 19:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -680,
+      "date": "2026-05-20 16:00:00",
+      "useFor": "cloth"
+    },
+    {
+      "type": "income",
+      "money": 15000,
+      "date": "2026-06-01 10:00:00",
+      "useFor": "salary"
+    },
+    {
+      "type": "pay",
+      "money": -5200,
+      "date": "2026-06-03 08:15:00",
+      "useFor": "house rent"
+    },
+    {
+      "type": "pay",
+      "money": -89,
+      "date": "2026-06-05 12:20:00",
+      "useFor": "food"
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2026-06-07 15:20:00",
+      "useFor": "bonus"
+    },
+    {
+      "type": "pay",
+      "money": -34,
+      "date": "2026-06-09 09:00:00",
+      "useFor": "drinks"
+    },
+    {
+      "type": "pay",
+      "money": -280,
+      "date": "2026-06-11 13:00:00",
+      "useFor": "learn"
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-06-13 16:00:00",
+      "useFor": "forward from others"
+    },
+    {
+      "type": "pay",
+      "money": -900,
+      "date": "2026-06-15 09:00:00",
+      "useFor": "forward to others"
+    },
+    {
+      "type": "pay",
+      "money": -77,
+      "date": "2026-06-17 19:30:00",
+      "useFor": "food"
+    },
+    {
+      "type": "pay",
+      "money": -680,
+      "date": "2026-06-19 16:00:00",
+      "useFor": "cloth"
+    },
+    {
+      "id": "1782205741977",
+      "type": "pay",
+      "useFor": "cloth",
+      "date": "2026-06-23 17:06:01",
+      "money": -200
+    },
+    {
+      "id": "1782206080689",
+      "type": "pay",
+      "useFor": "travel",
+      "date": "2026-06-23 17:06:40",
+      "money": -30000
+    },
+    {
+      "id": "1782206191689",
+      "type": "pay",
+      "useFor": "house debt",
+      "date": "2026-06-23 17:06:31",
+      "money": -13000
+    },
+    {
+      "id": "2025-01-01 00:01:00",
+      "type": "pay",
+      "useFor": "forward to others",
+      "date": "2026-06-23 17:06:58",
+      "money": -100
+    },
+    {
+      "id": "1782206723734",
+      "type": "pay",
+      "useFor": "drinks",
+      "date": "2025-01-01 00:01:00",
+      "money": -100
+    }
+  ]
+}

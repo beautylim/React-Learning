@@ -1,0 +1,58 @@
+.comment-item:hover {
+  background-color: #f8f9fa;
+  transition: background-color 0.3s;
+}
+
+.like-button:hover {
+  background-color: #e8e8e8;
+  transform: scale(1.05);
+}
+
+.delete-button:hover {
+  background-color: #fde8e8;
+}
+
+.submit-button:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+}
+
+.nav-item {
+  /* 重置按钮默认样式 */
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+
+  /* 添加交互效果 */
+  cursor: pointer;
+  font-size: 14px;
+  color: #e2dfdf;
+
+  /* 可选：添加悬停效果 */
+  transition: opacity 0.2s;
+}
+
+.nav-item:hover {
+  opacity: 0.8;
+}
+
+.nav-item.active {
+  color: #000;
+}
+
+/* 聚焦样式（无障碍访问） */
+.nav-item:focus-visible {
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.nav-sort {
+  list-style: none;
+}
+
+.nav-sort span:first-child {
+  border-right: 1px solid #ccc;
+  padding-right: 10px;
+  margin-right: 10px;
+}

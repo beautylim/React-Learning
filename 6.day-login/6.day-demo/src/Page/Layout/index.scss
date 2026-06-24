@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+
+  .user-info {
+    display: flex;
+    justify-content: right;
+  }
+
+  .user-name {
+    color: white;
+  }
+
+  .user-logout {
+    color: white;
+    margin-left: 25px;
+  }
+
+  .logo {
+    color: white;
+  }
+}

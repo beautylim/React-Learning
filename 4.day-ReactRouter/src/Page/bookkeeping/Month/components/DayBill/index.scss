@@ -1,0 +1,133 @@
+.dailyBill {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  // max-width: 420px;
+  margin: 0 auto;
+  margin-bottom: 8px;
+  width: 100%;
+
+  .dayHeader {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    border-radius: 16px;
+    background-color: #ffffff;
+    padding: 12px 16px;
+
+  }
+
+  .dateIcon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .date {
+      font-size: 15px;
+      font-weight: 600;
+      color: #1a1a1a;
+      letter-spacing: 0.5px;
+    }
+
+    .arrow {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-right: 2px solid #999999;
+      border-bottom: 2px solid #999999;
+      transform: rotate(45deg);
+      transition: transform 0.2s ease;
+
+      &.expand {
+        transform: rotate(-135deg);
+      }
+    }
+  }
+
+  .oneLineOverview {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 12px;
+    border-top: 1px solid #f0f0f0;
+
+    .pay,
+    .income,
+    .balance {
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+    }
+
+    .type {
+      font-size: 14px;
+      color: #999999;
+    }
+
+    .money {
+      font-size: 15px;
+      font-weight: 600;
+      color: #1a1a1a;
+    }
+
+    // 支出 - 红色
+    .pay {
+      .money {
+        color: #f53f3f;
+      }
+    }
+
+    // 收入 - 绿色
+    .income {
+      .money {
+        color: #00b42a;
+      }
+    }
+
+    // 结余 - 蓝色或深色
+    .balance {
+      .money {
+        color: #000000;
+        font-size: 15px;
+      }
+
+      .type {
+        order: 2; // 让"结余"文字在金额后面
+      }
+    }
+  }
+
+  .billList {
+    margin-top: 5px;
+    border-top: 3px solid #f5f5f5;
+    padding: 12px 16px;
+
+    .bill {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+}
+
+// // 响应式适配
+// @media (max-width: 400px) {
+//   .dailyBill {
+
+//     .oneLineOverview {
+//       flex-wrap: wrap;
+//       gap: 8px 0;
+
+//       .pay,
+//       .income,
+//       .balance {
+//         flex: 1;
+//         min-width: 60px;
+//       }
+
+//       .balance {
+//         justify-content: flex-end;
+//       }
+//     }
+//   }
+// }

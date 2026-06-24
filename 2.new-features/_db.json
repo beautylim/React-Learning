@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "userId": 101,
+      "username": "张三",
+      "content": "这篇文章写得真好，受益匪浅！",
+      "avatar": "https://ui-avatars.com/api/?background=3498db&color=fff&name=张三",
+      "time": "2024-01-15 10: 30",
+      "likes": 5,
+      "liked": true
+    },
+    {
+      "id": 2,
+      "userId": 102,
+      "username": "李四",
+      "content": "很有深度，学习了",
+      "avatar": "https://ui-avatars.com/api/?background=3498db&color=fff&name=李四",
+      "time": "2024-01-15 11: 20",
+      "likes": 3,
+      "liked": false
+    }
+  ]
+}

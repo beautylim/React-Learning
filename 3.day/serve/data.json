@@ -1,0 +1,127 @@
+{
+  "categories": [
+    {
+      "id": "c1",
+      "name": "一人套餐",
+      "items": [
+        {
+          "id": "m1",
+          "name": "经典单人餐",
+          "price": 25,
+          "imageUrl": "https://via.placeholder.com/80",
+          "description": "含主菜+小菜+米饭",
+          "sales": 128,
+          "rating": 92,
+          "isRecommended": true,
+          "categoryId": "c1"
+        },
+        {
+          "id": "m2",
+          "name": "轻食沙拉",
+          "price": 18,
+          "imageUrl": "https://via.placeholder.com/80",
+          "description": "低卡健康",
+          "sales": 87,
+          "rating": 88,
+          "isRecommended": false,
+          "categoryId": "c1"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "二人套餐",
+      "items": [
+        {
+          "id": "m3",
+          "name": "情侣双人餐",
+          "price": 48,
+          "imageUrl": "https://via.placeholder.com/80",
+          "description": "主菜+汤+甜品",
+          "sales": 210,
+          "rating": 95,
+          "isRecommended": true,
+          "categoryId": "c2"
+        },
+        {
+          "id": "m4",
+          "name": "闺蜜分享餐",
+          "price": 52,
+          "imageUrl": "https://via.placeholder.com/80",
+          "description": null,
+          "sales": 156,
+          "rating": 90,
+          "isRecommended": false,
+          "categoryId": "c2"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "烧烤",
+      "items": [
+        {
+          "id": "m5",
+          "name": "羊肉串（10串）",
+          "price": 30,
+          "imageUrl": "https://via.placeholder.com/80",
+          "description": null,
+          "sales": 342,
+          "rating": 96,
+          "isRecommended": true,
+          "categoryId": "c3"
+        },
+        {
+          "id": "m6",
+          "name": "烤鸡翅（4只）",
+          "price": 22,
+          "imageUrl": "https://via.placeholder.com/80",
+          "description": null,
+          "sales": 278,
+          "rating": 93,
+          "isRecommended": false,
+          "categoryId": "c3"
+        },
+        {
+          "id": "m7",
+          "name": "烤韭菜",
+          "price": 12,
+          "imageUrl": "https://via.placeholder.com/80",
+          "description": null,
+          "sales": 189,
+          "rating": 85,
+          "isRecommended": false,
+          "categoryId": "c3"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "name": "主食",
+      "items": [
+        {
+          "id": "m8",
+          "name": "蛋炒饭",
+          "price": 15,
+          "imageUrl": "https://via.placeholder.com/80",
+          "description": null,
+          "sales": 420,
+          "rating": 91,
+          "isRecommended": false,
+          "categoryId": "c4"
+        },
+        {
+          "id": "m9",
+          "name": "牛肉面",
+          "price": 20,
+          "imageUrl": "https://via.placeholder.com/80",
+          "description": null,
+          "sales": 315,
+          "rating": 94,
+          "isRecommended": true,
+          "categoryId": "c4"
+        }
+      ]
+    }
+  ]
+}
