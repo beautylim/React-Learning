@@ -29,5 +29,25 @@ const logoutSuccessMessage = (messageApi: MessageInstance) => {
   setTimeout(messageApi.destroy, 2500);
 }
 
+const publishSuccessMessage = (messageApi: MessageInstance) => {
+  messageApi.open({
+    type: 'success',
+    content: `文章发布成功`,
+    duration: 0
+  });
+  setTimeout(messageApi.destroy, 2500);
+}
 
-export { captchaSentMessage, loginSuccessMessage, logoutSuccessMessage }
+
+const updateSuccessMessage = (messageApi: MessageInstance) => {
+  messageApi.open({
+    type: 'success',
+    content: `文章更新成功`,
+    duration: 0
+  });
+  setTimeout(messageApi.destroy, 2500);
+}
+
+
+
+export { captchaSentMessage, loginSuccessMessage, logoutSuccessMessage, publishSuccessMessage, updateSuccessMessage }

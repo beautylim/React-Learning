@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit"
 import type { AppDispatch } from ".."
 import { getUserProfileAPI } from "../../apis/user";
 
-interface UserInfo {
+export interface UserInfo {
   userId: number;
   username: string;
   password: string;
@@ -10,7 +10,7 @@ interface UserInfo {
   phone: string;
 }
 
-interface UserInfoState {
+export interface UserInfoState {
   userInfo: UserInfo
 }
 const emptyUserInfo = { userId: 0, username: "", password: "", email: "", phone: "" }
@@ -38,7 +38,7 @@ const { setUserInfo, clearUserInfo } = userInfoStore.actions
 const fetchUserInfo = () => {
   return async (dispatch: AppDispatch) => {
     const res = await getUserProfileAPI()
-    dispatch(setUserInfo(res))
+    dispatch(setUserInfo(res.data))
   }
 
 }

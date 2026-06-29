@@ -5,7 +5,7 @@ import { setToken as _setToken, getToken } from "../../utils"
 import { loginAPI } from "../../apis/user"
 
 
-interface TokenState {
+export interface TokenState {
   token: string
 }
 
@@ -36,7 +36,7 @@ const { setToken, removeToken } = tokenStore.actions
 const fetchToken = (form: { username: string, telCode: string, loginType: string }) => {
   return async (dispatch: AppDispatch) => {
     const res = await loginAPI(form)
-    dispatch(setToken(res.token))
+    dispatch(setToken(res.data.token))
   }
 }
 
